@@ -1,4 +1,4 @@
-Norton Setuo guide to download, install and Setup via norton.com/setup
+Norton Setup guide to download, install and Setup via norton.com/setup
 ======================================================================
 
 .. meta::
